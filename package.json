@@ -1,0 +1,9 @@
+{
+  "name": "lifebuoy",
+  "fullName": "lifebuoy",
+  "description": "breadcrumbs and hints for better using firefox",
+  "author": "Gregg Lind <glind@mozilla.com>",
+  "id":  "lifebuoy@ux.mozilla.com",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
